@@ -17,5 +17,5 @@ ejercicio_profundizacion
 
 
 # Consultas
-alumnos@inove.com.ar
+alumnos@inove.com.a
 
